@@ -1,0 +1,5 @@
+speechrecognition
+pygame
+edge-tts
+pyaudio
+groq
